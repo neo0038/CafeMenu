@@ -50,6 +50,6 @@
       </main>
       <hr class="bottom-line">
       
-    </div>
+  
   </body>
 </html>
